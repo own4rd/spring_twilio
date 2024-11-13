@@ -1,13 +1,13 @@
 # Spring Boot + Integração com Twilio
 
-Este projeto demonstra como integrar o envio de mensagens via WhatsApp em um microserviço Spring Boot utilizando a API do Twilio. O serviço permite o envio de mensagens WhatsApp por meio de uma API REST.
+Este projeto demonstra como integrar o envio de mensagens via microserviço Spring Boot utilizando a API do Twilio. O serviço permite o envio de mensagens WhatsApp por meio de uma API REST.
 
 ### Pré-requisitos
 
 - **Java 11 ou superior**: Certifique-se de ter o JDK 11 ou versão superior instalado.
 - **Maven**: O projeto utiliza o Maven para o gerenciamento de dependências e build.
-- **Conta Twilio**: É necessário ter uma conta no Twilio para enviar mensagens via WhatsApp. Cadastre-se em [Twilio](https://www.twilio.com/).
-- **Número habilitado para WhatsApp no Twilio**: Você precisará obter um número habilitado para WhatsApp no Twilio.
+- **Conta Twilio**: É necessário ter uma conta no Twilio para enviar mensagens. Cadastre-se em [Twilio](https://www.twilio.com/).
+- **Número habilitado para WhatsApp no Twilio**: Você precisará obter um número habilitado para o Twilio.
 
 ### Configuração e Setup
 
